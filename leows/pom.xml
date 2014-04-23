@@ -24,7 +24,7 @@
 							<goal>wsgen</goal>
 						</goals>
 						<configuration>
-							<sei>hu.jvrs.lion.ws.services.beans.AfakulcsServiceBean</sei>
+							<sei>hu.jvrs.leo.ws.services.beans.AfakulcsServiceBean</sei>
 							<genWsdl>true</genWsdl>
 							<keep>false</keep>
 							<resourceDestDir>${project.build.directory}/wsdl</resourceDestDir>

@@ -51,7 +51,7 @@ public class AfakulcsServiceTest {
 	@Test
 	public void test() {	
 		assertNotNull(service.getAllAfakulcsKodEs());
-		assertNotNull(service.getAfakulcsKodEsById(1));
+//		assertNotNull(service.getAfakulcsKodEsById(1));
 		SLF4JLOGGER.info("Test successfully finished!");
 	}
 
