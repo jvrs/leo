@@ -1,6 +1,6 @@
 package hu.jvrs.lion.helper.tests;
 
-import hu.jvrs.lion.helper.mail.SendMail;
+import hu.jvrs.leo.helper.mail.SendMail;
 
 import org.junit.Ignore;
 import org.junit.Test;

@@ -103,8 +103,8 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>lions</groupId>
-			<artifactId>lion5jpa</artifactId>
+			<groupId>panthera</groupId>
+			<artifactId>leojpa</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>

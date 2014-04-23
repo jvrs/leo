@@ -1,6 +1,6 @@
 package hu.jvrs.lion.helper.tests;
 
-import hu.jvrs.lion.helper.statistics.Statistics;
+import hu.jvrs.leo.helper.statistics.Statistics;
 
 import org.junit.Test;
 

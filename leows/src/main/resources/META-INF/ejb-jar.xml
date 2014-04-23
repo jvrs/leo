@@ -2,7 +2,7 @@
 <ejb-jar xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.1"
 	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/ejb-jar_3_1.xsd">
 	
-	<display-name>lion5ws</display-name>	
+	<display-name>leows</display-name>	
 <!-- 	<assembly-descriptor> -->
 <!-- 		<interceptor-binding> -->
 <!-- 			<ejb-name>*</ejb-name> -->

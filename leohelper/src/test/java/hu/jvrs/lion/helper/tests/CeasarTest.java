@@ -1,6 +1,6 @@
 package hu.jvrs.lion.helper.tests;
 
-import hu.jvrs.lion.helper.security.Ceasar;
+import hu.jvrs.leo.helper.security.Ceasar;
 
 import org.junit.Test;
 

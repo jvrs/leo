@@ -43,12 +43,12 @@
 
 					<modules>
 						<ejbModule>
-							<groupId>lions</groupId>
-							<artifactId>lion5ws</artifactId>
+							<groupId>panthera</groupId>
+							<artifactId>leows</artifactId>
 						</ejbModule>
 						<jarModule>
-							<groupId>lions</groupId>
-							<artifactId>lion5jpa</artifactId>
+							<groupId>panthera</groupId>
+							<artifactId>leojpa</artifactId>
 						</jarModule>
 					</modules>
 					<displayName />					
@@ -61,13 +61,13 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>lions</groupId>
-			<artifactId>lion5jpa</artifactId>
+			<groupId>panthera</groupId>
+			<artifactId>leojpa</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>lions</groupId>
-			<artifactId>lion5ws</artifactId>
+			<groupId>panthera</groupId>
+			<artifactId>leows</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 			<type>ejb</type>
 		</dependency>

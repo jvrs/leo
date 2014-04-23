@@ -1,7 +1,7 @@
 package hu.jvrs.lion.helper.tests;
 
-import hu.jvrs.lion.helper.security.FileCryptor;
-import hu.jvrs.lion.helper.security.Symmetric;
+import hu.jvrs.leo.helper.security.FileCryptor;
+import hu.jvrs.leo.helper.security.Symmetric;
 
 import org.junit.Test;
 

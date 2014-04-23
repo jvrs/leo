@@ -12,10 +12,10 @@
 	</properties>
   
   	<modules>		
-		<module>lion5jpa</module>
-		<module>lion5helper</module>
-		<module>lion5ws</module>
-		<module>lion5ear</module>
+		<module>leojpa</module>
+		<module>leohelper</module>
+		<module>leows</module>
+		<module>leoear</module>
 	</modules>
 	
 	<build>
